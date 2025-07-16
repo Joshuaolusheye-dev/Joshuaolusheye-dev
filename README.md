@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Joshua Daboiku
 
-<!--
-**Joshuaolusheye-dev/Joshuaolusheye-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Software Developer** | Passionate about solving real-world problems through tech
 
-Here are some ideas to get you started:
+I'm currently learning full-stack software development with a focus on **HTML**, **CSS**, **Python**, and **JavaScript**. I’m committed to building practical, impactful solutions as I grow in the tech space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Learning
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python (currently exploring Django and Flask)
+- Tools: Git, GitHub, VS Code
+
+## 🛠 Projects I'm Working On
+- Beginner web pages and mini apps
+- Command-line tools in Python
+- Practice challenges and collaborative projects
+
+## 📫 Connect With Me
+- **Email**: [joshuadaboiku@gmail.com](mailto:joshuadaboiku@gmail.com)
+- *(Optional: Add LinkedIn or portfolio link here)*
+
+---
+
+🌱 Always learning. Always building. Let's grow together.
